@@ -15,8 +15,8 @@
           </div>
           
         </div></center>
-        <!-- 
+        
         <a class="btn btn-secondary" href="<?=base_url()?>index.php/login/index" role="button">Panel</a>
-      -->
+      
     </div> <!-- /container -->
 </footer>
