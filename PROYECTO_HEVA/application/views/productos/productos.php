@@ -1,7 +1,7 @@
 <body>
 	<center style="padding: 2%">
 		<table class="table table-bordered" >
-			<tr class="text-light" style="background-color: rgb(192, 57, 43);">
+			<tr class="text-light" style="background-color: rgb(175, 28, 128);">
 				
 				<th>Nombre</th>
 				<th>Descripcion</th>
@@ -57,6 +57,6 @@
 				?>
 			</tbody>
 		</table>
-		<button class="btn btn-secondary btn-lg btn-block" style="background-color: rgb(192, 57, 43);" type="button" onclick="location.href='<?=base_url()?>index.php/productos/agregar_producto'">Agregar Producto</a>
+		<button class="btn btn-secondary btn-lg btn-block" style="background-color: rgb(175, 28, 128);" type="button" onclick="location.href='<?=base_url()?>index.php/productos/agregar_producto'">Agregar Producto</a>
 	</center>
 </body>

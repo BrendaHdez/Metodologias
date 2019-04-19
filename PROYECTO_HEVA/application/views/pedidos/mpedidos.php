@@ -1,7 +1,7 @@
 <body>
 	<center style="padding: 2%">
 		<table class="table table-bordered" >
-			<tr class="text-light" style="background-color: rgb(192, 57, 43);">
+			<tr class="text-light" style="background-color: rgb(175, 28, 128);">
 				
 				<th>No.Pedido</th>
 				<th>Nombre de Sucursal</th>

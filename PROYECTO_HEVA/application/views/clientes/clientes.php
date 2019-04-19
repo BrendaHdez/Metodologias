@@ -1,7 +1,7 @@
 <body>
 	<center style="padding: 2%">
 		<table class="table table-bordered" style="">
-			<tr class="text-light" style="background-color: rgb(192, 57, 43);">
+			<tr class="text-light" style="background-color: rgb(175, 28, 128);">
 				<th>Nombre</th>
 				<th>Apellidos</th>
 				<th>Telefono</th>
@@ -44,6 +44,6 @@
 				?>
 			</tbody>
 		</table>
-		<button class="btn btn-secondary btn-lg btn-block" type="button" style="background-color: rgb(192, 57, 43);"  onclick="location.href='<?=base_url()?>index.php/clientes/agregar_cliente'">Agregar Clientes</a>
+		<button class="btn btn-secondary btn-lg btn-block" type="button" style="background-color: rgb(175, 28, 128);"  onclick="location.href='<?=base_url()?>index.php/clientes/agregar_cliente'">Agregar Clientes</a>
 	</center>
 </body>
