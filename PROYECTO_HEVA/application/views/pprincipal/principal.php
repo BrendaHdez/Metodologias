@@ -47,7 +47,7 @@
         <div class="row featurette">
           <div class="col-md-7 order-md-2">
             <h2 class="featurette-heading text-danger">Pastel de chocoretas <span class="text-muted"></span></h2>
-            <p class="lead">Pastel de Chocolate, relleno y cubierto por un “frosting” sabor menta y como decoración chocoretas.</p>
+            <p class="lead">Pastel de chocolate, relleno y cubierto por un “frosting” sabor menta y como decoración chocoretas.</p>
           </div>
           <div class="col-md-3 order-md-1">
             <img class="featurette-image img-fluid mx-auto" data-src="holder.js/500x300/auto" alt="500x300" src="<?=base_url()?>img/4.jpg" data-holder-rendered="true" style="width: 250px; height: 280px;">
@@ -56,8 +56,8 @@
         <hr>
         <div class="row featurette">  
           <div class="col-md-9">
-            <h2 class="featurette-heading text-danger">Pastel ombre cake<span class="text-muted"></span></h2>
-            <p class="lead">Pan sabor vainilla con relleno de cajeta, cobertura de chantilly decorada de colores con perlitas.</p>
+            <h2 class="featurette-heading text-danger">Ombre cake<span class="text-muted"></span></h2>
+            <p class="lead">Pan sabor vainilla con relleno de cajeta, cobertura de chantilly de colores decorada con perlitas.</p>
           </div>
           <div class="col-md-3" style="margin-bottom: 10px">
             <img class="featurette-image img-fluid mx-auto" data-src="holder.js/500x500/auto" alt="500x500" src="<?=base_url()?>img/1.jpg" data-holder-rendered="true" style="width: 250px; height: 250px;">
@@ -67,7 +67,7 @@
         <div class="row featurette">
           <div class="col-md-8 order-md-2">
             <h2 class="featurette-heading text-danger">Pastel natural <span class="text-muted"></span></h2>
-            <p class="lead"> Pan sabor a cereza, cobertura de chantilly con decoracion sencilla con cerezas </p>
+            <p class="lead"> Pan sabor a cereza, cobertura de chantilly con decoración sencilla con cerezas </p>
           </div>
           <div class="col-md-4 order-md-1">
             <img class="featurette-image img-fluid mx-auto" data-src="holder.js/500x300/auto" alt="500x300" src="<?=base_url()?>img/2.jpg" data-holder-rendered="true" style="width: 300px; height: 180px;">

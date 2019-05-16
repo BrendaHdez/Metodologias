@@ -9,7 +9,7 @@
       <title>HEVA</title>
   </head>
 
-      <nav class="navbar navbar-expand-lg navbar-dark  justify-content-between" style="background-color: rgb(175, 28, 128);">
+      <nav class="navbar navbar-expand-lg navbar-dark  justify-content-between" style="background-color: rgb(198, 46, 95);">
     
        <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navarSupportedContent" aria-controls="navarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
@@ -23,9 +23,9 @@
             <li class="nav-item">
                 <a class="nav-link" href="<?=base_url()?>index.php/sucursales/psucursal/">Sucursales</a>
             </li>
-            <!-- <li class="nav-item">
+            <li class="nav-item">
                 <a class="nav-link" href="<?=base_url()?>index.php/productos/pproducto/">Productos</a>
-            </li>-->
+            </li>
           </ul>
       </div>
    <!--   <form class="form-inline">

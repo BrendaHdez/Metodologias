@@ -13,7 +13,6 @@
 
   <body class="text-center">
     <form method="post" action="<?=base_url()?>index.php/login/autentificar" class="form-signin" >
-    <!--  <img class="mb-4" src="https://getbootstrap.com/assets/brand/bootstrap-solid.svg" alt="" width="72" height="72">-->
       <h1 class="h3 mb-3 font-weight-normal">Login</h1>
       <label for="inputEmail" class="sr-only">Correo electronico</label>
       <input type="email" id="inputEmail" class="form-control" name="correo" placeholder="Correo" required="" autofocus="">

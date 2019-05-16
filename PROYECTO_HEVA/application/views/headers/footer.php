@@ -5,11 +5,11 @@
           
           <div class="col-md-12" >
             <h2>CONTACTO</h2>
-            <p align="justify"><center> Estamos a su servicio habla con nostros!</center></p>
+            <p align="justify"><center> !Estamos a su servicio habla con nosotros!</center></p>
             <ul>
                     <center><p class="email"><center>hevapasteleria@gmail.com</center>  </p>
                     <p class="phone">6623608926</p>
-                    <p class="chat"><a href="https://www.facebook.com/HEVAPasteleria/"><img src="http://localhost:8080/PROYECTO/img/FB.png" width="30" height="30"  alt="fb"></a></p></center>
+                    <p class="chat"><a href="https://www.facebook.com/HEVAPasteleria/" target="_blank"><img src="http://localhost:8080/PROYECTO/img/FB.png" width="30" height="30"  alt="fb" ></a></p></center>
                 </ul>
             
           </div>

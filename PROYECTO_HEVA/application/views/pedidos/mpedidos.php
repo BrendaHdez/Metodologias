@@ -1,14 +1,14 @@
 <body>
 	<center style="padding: 2%">
 		<table class="table table-bordered" >
-			<tr class="text-light" style="background-color: rgb(175, 28, 128);">
+			<tr class="text-light" style="background-color: rgb(198, 46, 95);">
 				
 				<th>No.Pedido</th>
 				<th>Nombre de Sucursal</th>
 				<th>Nombre de Cliente</th>
 				<th>Nombre de Producto</th>
 				<th>Cantidad</th>
-				<th>Total</th>
+				<th>Precio total</th>
 				<th>Fecha</th>
 			</tr>
 			<tbody>

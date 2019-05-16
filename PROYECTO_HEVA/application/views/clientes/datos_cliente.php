@@ -21,14 +21,18 @@
 <body>
   <br>
   <br>
-   <center><img class="d-block w-100" src="http://localhost:8080/PROYECTO/img/registro.jpg" alt="pastel"></center>
-   <br>
-	<div class="container">
-		<div class="py-5 text-center">
-	        <h2>Registro de Datos</h2>
-	        <p class="lead">Favor de Ingresar los datos del formulario</p>
+   <center>
+     <br>
+  <center><div class="container" style="margin-top: 100px;margin-bottom: 100px;margin-left: 100px;border: black 4px outset;">
+    <p><h1 >REGISTRO DE DATOS</h1></p>
+    <div class="py-5 text-center">
+          <p class="lead">Favor de Ingresar los datos del formulario</p>
       </div>
 
+  </div>
+</center>
+	<div class="container">
+		
      
       <div class="row">
         <div class="col-md-4 order-md-2 mb-4">
@@ -92,8 +96,8 @@
               </div>
 
               <div class="col-md-4 mb-3">
-                <label >Fecha De Retiro</label>
-                <input type="date" class="form-control" id="fecha" name="fecha" min="2018-06-01" max="2018-06-20" value="" required="">
+                <label >Fecha de entrega</label>
+                <input type="date" class="form-control" id="fecha" name="fecha" min="2019-05-01" max="2030-06-20" value="" required="">
               </div>
             </div>
             <hr class="mb-4">

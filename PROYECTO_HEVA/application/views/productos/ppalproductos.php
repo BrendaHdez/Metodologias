@@ -1,9 +1,20 @@
-<br>
-  <br>
-   <center><img class="d-block w-100" src="http://localhost:8080/PROYECTO/img/productos.jpg" alt="pastel"></center>
-   <br>
+<head><style>
+ rosa{
+  color:red;
+ } 
+</style>
+</head>
 
 <body style="width:100%;height:100px;overflow:auto;">
+  
+  <br>
+  <center><div class="container" style="margin-top: 100px;margin-bottom: 100px;margin-left: 100px;border: black 4px outset;"><BR>
+    <h1 class="rosa">PRODUCTOS</h1>
+    <BR><BR>
+  </div>
+</center>
+   <br>
+
   <main role="main">
       <div class="container" style="margin-top: 100px;">
         <?php
