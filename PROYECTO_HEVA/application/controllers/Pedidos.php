@@ -22,6 +22,7 @@ class Pedidos extends CI_Controller {
 			$this->load->view('headers/scripts');
 			$this->load->view('headers/panelnavbar');
 			$this->load->view('pedidos/mpedidos',$data);
+			
 		}
 		else
 		{

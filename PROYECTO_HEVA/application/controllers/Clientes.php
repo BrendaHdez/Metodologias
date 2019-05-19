@@ -194,11 +194,13 @@ class Clientes extends CI_Controller {
 						'fecha'=> $fecha,
 				);
 				$this->Productos_model->set_pedido($data);
-				echo "<script>alert('Pedido Agregado Correctamente')</script>";
+				//echo "<script>alert('Pedido Agregado Correctamente')</script>";
+				$this->load->view('Comprobante/info');
 			}
-		}		
+		}
 
-		redirect('principal');
+		
+	
 	}
 }
 ?>

@@ -15,20 +15,20 @@ class Pedidos extends CI_Controller {
 		{
 			$DATA_PEDIDOS=$this->Info_model->get_info(); //usuarios_model
 			$data=array(
-				'DATA_PEDIDOS'=>$DATA_PEDIDOs,
+				'DATA_PEDIDOS'=>$DATA_PEDIDOS,
 				'PRUEBA'=>1,
 			);
 
 			$this->load->view('headers/scripts');
-			//$this->load->view('headers/panelnavbar');
-			$this->load->view('Comprobante/info',$data);
-		}
-		else
+			$this->load->view('headers/panelnavbar');
+			$this->load->controller()
+	
+	}
+	else
 		{
 			redirect('login');
 		}
-	}
-	
 
-	
-}?>
+	}
+}
+?>
